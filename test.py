@@ -17,4 +17,4 @@ async def clear(ctx, number):
         counter += 1
 
 
-client.run('ODE1OTA2Mjg3ODk2MjMxOTM3.YDzN8Q.zgEy37pxOX8RKjVhGa31GwSHZHw')
+client.run('TOKEN')
